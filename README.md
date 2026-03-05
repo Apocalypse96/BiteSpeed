@@ -2,6 +2,14 @@
 
 Unifies customer identities across checkout events where customers may use different email/phone combinations.
 
+## Live Endpoint
+
+**Base URL:** https://bitespeed-73gh.onrender.com
+
+**Identify:** `POST https://bitespeed-73gh.onrender.com/identify`
+
+**API Docs:** https://bitespeed-73gh.onrender.com/api-docs
+
 ## Setup
 
 1. **Install dependencies**
